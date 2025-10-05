@@ -13,3 +13,7 @@ sudo systemctl start jenkins
 sudo systemctl status jenkins
 hostname jenkins-server
 
+ 
+
+
+ 
