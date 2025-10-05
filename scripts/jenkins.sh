@@ -15,5 +15,4 @@ hostname jenkins-server
 
  
 
-
- 
+echo "JEnkinstest"
